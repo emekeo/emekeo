@@ -8,7 +8,7 @@
 emekeo/emekeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">👋 Hello! I'm Ojougboh Emeke Collins </h1>
+<h1 align="center">👋 Hello! I'm Ojougboh Collins </h1>
 <h3 align="center">I'm open to new job opportunities, learning and challenges </h3>
 
 [![Github views](https://komarev.com/ghpvc/?username=emekeo&style=flat-square&color=green)](https://github.com/emekeo)<div align="left" width="50%">
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ### Contact me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-ojougboh/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ojougbohemeke)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gistwithcollins@gmail.com) /><a/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gistwithcollins@gmail.com)
 <br />
   
 ---
@@ -53,16 +53,16 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-###  📈 &nbsp; My GitHub Stats
+###  📈 &nbsp; GitHub Stats
   
   <br>
 
  <div align="center">
-   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=emekeo&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Ojougboh Collins Emeke  Github Stats" />
+   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=emekeo&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Ojougboh Collins Github Stats" />
 </div>
 <div align="center">  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emekeo&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Collins Ojougboh Most Used Languages" />
-  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=emekeo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Ojougboh Collins Emeke Github Current Streak" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emekeo&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Ojougboh Collins Most Used Languages" />
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=emekeo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Ojougboh Collins Github Current Streak" /> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
