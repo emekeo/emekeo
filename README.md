@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 <div>
   
 ### Contact me:
-  <a href="mailto:gistwithcollins@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="gistwithcollins@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
-  <a href="https://www.linkedin.com/in/collins-ojougboh/" target="_blank"><img align="left" alt="Collins Ojougboh LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
-    <a href="https://twitter.com/ojougbohemeke" target="_blank"><img align="left" alt="Collins Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-ojougboh/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ojougbohemeke)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gistwithcollins@gmail.com) /><a/>
 <br />
   
 ---
@@ -34,14 +34,20 @@ You can click the Preview link to take a look at your changes.
 ### 🛠 &nbsp;Languages and Technologies:
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/htm-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&
-  <img src="https://github.com/devicons/devicon/blob/master/icons/-original.svg" title="python" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Github](https://img.shields.io/badge/github-8B001B?style=for-the-badge&logoColor=white&logo=github)
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logoColor=white&logo=docker)
 
 </p>
 
