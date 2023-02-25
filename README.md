@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Programming 
 - 🌱 I’m currently learning nodejs, react
 - 💞️ I’m looking to collaborate on Full Stack Programming
-- 📫 How to reach me  08035422381
+- 📫 How to reach me  +2348035422381
 
 <!---
 emekeo/emekeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
